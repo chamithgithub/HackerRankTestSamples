@@ -1,4 +1,5 @@
 package Day23;
+
 import java.util.*;
 import java.io.*;
 class Node{
@@ -7,6 +8,7 @@ class Node{
     Node(int data){
         this.data=data;
         left=right=null;
+
     }
 }
 class Solution{
